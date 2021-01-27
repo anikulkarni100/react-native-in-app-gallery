@@ -1,3 +1,7 @@
+import * as React from 'react';
+import { SvgXml,SvgCss  } from 'react-native-svg';
+ 
+const xml = `
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50.455" height="50" viewBox="0 0 44.455 48">
     <defs>
         <style>.a{fill:url(#a);}.b{fill:url(#b);}.c{fill:url(#d);}.d{fill:url(#e);}.e{fill:url(#g);}.f{fill:url(#h);}.g{fill:#fff;font-size:14px;font-weight:500;}</style>
@@ -26,4 +30,5 @@
             <tspan x="0" y="0">30</tspan>
         </text>
     </g>
-</svg>
+</svg>`
+export default () => <SvgXml xml={xml} width="100%" height="100%" />;
