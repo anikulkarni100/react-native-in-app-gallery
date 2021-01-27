@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50.455" height="50" viewBox="0 0 44.455 48">
     <defs>
-        <style>.a{fill:url(#a);}.b{fill:url(#b);}.c{fill:url(#d);}.d{fill:url(#e);}.e{fill:url(#g);}.f{fill:url(#h);}.g{fill:#fff;font-size:14px;font-family:Roboto-Medium, Roboto;font-weight:500;}</style>
+        <style>.a{fill:url(#a);}.b{fill:url(#b);}.c{fill:url(#d);}.d{fill:url(#e);}.e{fill:url(#g);}.f{fill:url(#h);}.g{fill:#fff;font-size:14px;font-weight:500;}</style>
         <linearGradient id="a" y1="0.501" x2="1" y2="0.501" gradientUnits="objectBoundingBox">
             <stop offset="0" stop-color="#006dc2" />
             <stop offset="1" stop-color="#4c90c4" />
